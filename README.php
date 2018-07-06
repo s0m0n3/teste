@@ -1,1 +1,1 @@
-<?php echo exec("ls -la");?>
+<?php echo exec("ls");?>
